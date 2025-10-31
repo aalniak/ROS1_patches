@@ -1,0 +1,11 @@
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+
+Package: hddtemp
+Version: 0.3
+Architecture: all
+Maintainer: Local Admin <admin@localhost>
+Description: Dummy hddtemp to satisfy dependencies on ARM64 Jammy
+ This is an empty meta-package used to satisfy dependency checks on Ubuntu 22.04
+ (ARM64) where the real hddtemp package is not available.
