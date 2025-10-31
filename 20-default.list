@@ -2,7 +2,7 @@
 yaml https://raw.githubusercontent.com/ros/rosdistro/master/rosdep/osx-homebrew.yaml osx
 
 # generic
-yaml file:///home/nvidia/Downloads/base.yaml
+yaml file:///tmp/base.yaml
 yaml https://raw.githubusercontent.com/ros/rosdistro/master/rosdep/python.yaml
 yaml https://raw.githubusercontent.com/ros/rosdistro/master/rosdep/ruby.yaml
 gbpdistro https://raw.githubusercontent.com/ros/rosdistro/master/releases/fuerte.yaml fuerte
